@@ -2,7 +2,7 @@
 
 ## Who Am I? (¬‿¬)
 
-I am a **Junior Software Developer**. Currently I'm learning and building a different kind of projects. I have experience working with various programming languages and technologies, including:
+I am a **Junior Software Developer**. Currently I'm learning and building a different kind of projects, like **Videogames** or . I have experience working with various programming languages and technologies. 
 
 ## 🧰 Tools and Technology
 
@@ -44,7 +44,7 @@ I am a **Junior Software Developer**. Currently I'm learning and building a diff
 
 ## Looking for
 
-I am actively seeking opportunities to further develop my skills and contribute to meaningful projects. I am open to exploring new technologies and working in a collaborative environment.
+I am actively seeking opportunities to further develop my skills and contribute to meaningful projects. I am always open to exploring new technologies and working in a collaborative environment.
 
 ## Let's Connect!
 
