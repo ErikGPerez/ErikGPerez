@@ -1,6 +1,6 @@
-# [Your Name]
+# Hi! I'm Erik Granado Pérez
 
-## About Me
+## Who Am I? 
 
 I am a **Junior Software Developer** with a passion for learning and building innovative solutions. I have experience working with various programming languages and technologies, including:
 
