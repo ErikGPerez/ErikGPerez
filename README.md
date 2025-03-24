@@ -1,16 +1,13 @@
-# Hi! I'm Erik Granado Pérez
+# Hi! I'm Erik Granado Pérez 👨🏻‍💻
 
-## Who Am I? 
+## Who Am I? (¬‿¬)
 
-I am a **Junior Software Developer** with a passion for learning and building innovative solutions. I have experience working with various programming languages and technologies, including:
+I am a **Junior Software Developer**. Currently I'm learning and building a different kind of projects. I have experience working with various programming languages and technologies, including:
 
-* **Programming Languages:**
-* C# Java Python
+* **Programming Languages:** C#, Java, Python
 * **Databases:** SQL/MySQL, Oracle, PostgreSQL, MongoDB, MariaDB, pgAdmin
 * **IDEs:** Visual Studio, Visual Studio Code, Android Studio, NetBeans, Packet Tracer
 * **Operating Systems:** Linux
-
-I am a fast learner and eager to contribute to challenging projects. I am also a strong team player and enjoy collaborating with others to achieve common goals.
 
 ## Skills
 
@@ -23,12 +20,10 @@ I am a fast learner and eager to contribute to challenging projects. I am also a
 
 ## Projects
 
-[List your projects here, providing brief descriptions and links to their repositories.]
-
 ## Contact
 
-* **Email:** [your_email@example.com]
-* **LinkedIn:** [your_linkedin_profile_url]
+* ✉️ **Email:** erikgranado97@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/egpdeveloper/
 
 ## Looking for
 
