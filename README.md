@@ -2,7 +2,11 @@
 
 ## Who Am I? (¬‿¬)
 
-I am a **Junior Software Developer**. Currently I'm learning and building a different kind of projects, like **Videogames** or . I have experience working with various programming languages and technologies. 
+I am a **Junior Software Developer**. Currently I'm learning and building a different kind of projects, like **Videogames**. I have experience working with various programming languages and technologies,
+such Java or C#. 
+
+![GitHub followers](https://img.shields.io/github/followers/ErikGPerez) ![GitHub User's stars](https://img.shields.io/github/stars/ErikGPerez)
+
 
 ## 🧰 Tools and Technology
 
@@ -49,6 +53,8 @@ I am actively seeking opportunities to further develop my skills and contribute 
 ## Let's Connect!
 
 Feel free to reach out to me if you have any questions or want to discuss potential collaborations.
+
+
 
 <!--
 **ErikGPerez/ErikGPerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
