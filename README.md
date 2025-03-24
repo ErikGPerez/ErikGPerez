@@ -16,6 +16,9 @@ I am a **Junior Software Developer**. Currently I'm learning and building a diff
 
   ![Static Badge DB](https://img.shields.io/badge/MariaDB-blue?logo=mariadb&labelColor=grey) ![Static Badge DB](https://img.shields.io/badge/pgAdmin-blue)
 
+* **Frameworks:**
+
+  [![Skill Icons DB](https://skillicons.dev/icons?i=net)](https://skillicons.dev)
 
 * **IDE:**
 
@@ -23,19 +26,21 @@ I am a **Junior Software Developer**. Currently I'm learning and building a diff
   
   ![Static Badge IDE](https://img.shields.io/badge/Apache_NetBeans-orange?logo=apachenetbeanside&logoColor=white&labelColor=grey)
 
-* **Operating Systems:** Linux
+* **Other:**
+
+  [![Skill Icons DB](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 ## Skills
 
-* **Version Control:** Git
-* **Agile Methodologies:** Scrum, Kanban
+* **Agile Methodologies:**
+
+  ![Static Badge](https://img.shields.io/badge/Scrum-grey) ![Static Badge](https://img.shields.io/badge/Kanban-grey)
 
 ## Projects
 
 ## Contact
 
 * ✉️ **Email:** erikgranado97@gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/egpdeveloper/
 
 ## Looking for
 
