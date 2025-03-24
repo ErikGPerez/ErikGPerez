@@ -4,7 +4,8 @@
 
 I am a **Junior Software Developer** with a passion for learning and building innovative solutions. I have experience working with various programming languages and technologies, including:
 
-* **Programming Languages:** C#, Java, Python
+* **Programming Languages:**
+* C# Java Python
 * **Databases:** SQL/MySQL, Oracle, PostgreSQL, MongoDB, MariaDB, pgAdmin
 * **IDEs:** Visual Studio, Visual Studio Code, Android Studio, NetBeans, Packet Tracer
 * **Operating Systems:** Linux
