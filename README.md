@@ -4,17 +4,22 @@
 
 I am a **Junior Software Developer**. Currently I'm learning and building a different kind of projects. I have experience working with various programming languages and technologies, including:
 
-* **Programming Languages:** C#, Java, Python
+* **Languages:**
+
+  ![Static Badge](https://img.shields.io/badge/CSharp-8A2BE2?logo=c&label=%23&labelColor=grey) ![Static Badge](https://img.shields.io/badge/Java-orange) ![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&labelColor=grey)
+
+
 * **Databases:** SQL/MySQL, Oracle, PostgreSQL, MongoDB, MariaDB, pgAdmin
+
+  ![Static Badge](https://img.shields.io/badge/SQL%2FMySQL-orange?logo=mysql&labelColor=grey) ![Static Badge](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&labelColor=grey) 
+
+
+
 * **IDEs:** Visual Studio, Visual Studio Code, Android Studio, NetBeans, Packet Tracer
 * **Operating Systems:** Linux
 
 ## Skills
 
-* **Programming Languages:** C#, Java, Python
-* **Databases:** SQL, MySQL, Oracle, PostgreSQL, MongoDB, MariaDB, pgAdmin
-* **IDEs:** Visual Studio, Visual Studio Code, Android Studio, NetBeans, Packet Tracer
-* **Operating Systems:** Linux
 * **Version Control:** Git
 * **Agile Methodologies:** Scrum, Kanban
 
